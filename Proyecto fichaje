@@ -1,8 +1,12 @@
 Mi idea es crear un programa para poder de manera exacta fichar las entradas y salidas de los trabajadores en una empresa 
 todo en un dispositivo de esa manera se ahorra en papeles debido a que muchas empresas todavía usas métodos tradicionales para el fichaje del personal en el trabajo.
+
 El programa se desarrolla en un equipo en el cual en un menú vendrán los nombres de los trabajadores y al pulsar en ellos se podrá fichar la entrada o la salida si ya se puso previamente.
+
 También tiene dos botones, uno para agregar a un nuevo trabajador y otro para borrar a uno ya existente.
+
 Cada persona creada tendrá un documento de texto donde se guardará el día/mes/año y hora exacta a la que se ficha su entrada y salida.
 Con esto se pretende que las empresas de pocos trabajadores puedan tener un listado con los fichajes de todos los empleados sin necesidad de muchas hojas o tener que editarlo en un excel.
+
 La aplicación tendrá una contraseña para realizar las operaciones importantes como agregar o borrar trabajadores y cada trabajador tendrá su propia contraseña propia para fichar.
 La información de cada empleado se guardará de dos maneras: o en una carpeta fuera del alcance de los empleados no autorizados o en una nube donde solo personal autorizado podrá leerlo.
