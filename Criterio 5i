@@ -1,7 +1,9 @@
 Criterio 5i) Se ha valorado la importancia de la seguridad y su regulación en relación con los datos
 
 Seguridad implementada (5pt)	Describe claramente las medidas de seguridad aplicadas en el proyecto o propone medidas factibles (5pt)
-La seguridad vendría del uso de contraseñas para la modificación de la aplicación y una llave que solo tendrán personal autorizado, cada empleado dispondrá de una contraseña propia para él,no pudiendo fichar en nombre ajeno.
+La seguridad vendría del uso de contraseñas para la modificación de la aplicación y una llave que solo tendrán personal autorizado, 
+cada empleado dispondrá de una contraseña propia para él,no pudiendo fichar en nombre ajeno.
 
 Regulación aplicada (5pt)	Valora normativas relevantes (e.g., GDPR) y cómo se aplican o podrían aplicarse al proyecto (5pt)
-Debido a que los archivos donde se guardan los fichajes de los empleados están cifrados si llegan a personas indebidas no dispondrán del desencriptador de datos para obtener la información inmediatamente cumpliendo con la protección de datos.
+Debido a que los archivos donde se guardan los fichajes de los empleados están cifrados si llegan a personas indebidas no dispondrán del desencriptador de datos para obtener la información inmediatamente 
+cumpliendo con la ley de protección de datos.
