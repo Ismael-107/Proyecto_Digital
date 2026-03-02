@@ -1,4 +1,5 @@
-Mi idea es crear un programa para poder de manera exacta fichar las entradas y salidas de los trabajadores en una empresa todo un dispositivo de esa manera se ahorra en papeles debido a que muchas empresas todavía usas métodos tradicionales para el fichaje del personal en el trabajo
+Mi idea es crear un programa para poder de manera exacta fichar las entradas y salidas de los trabajadores en una empresa 
+todo en un dispositivo de esa manera se ahorra en papeles debido a que muchas empresas todavía usas métodos tradicionales para el fichaje del personal en el trabajo.
 El programa se desarrolla en un equipo en el cual en un menú vendrán los nombres de los trabajadores y al pulsar en ellos se podrá fichar la entrada o la salida si ya se puso previamente.
 También tiene dos botones, uno para agregar a un nuevo trabajador y otro para borrar a uno ya existente.
 Cada persona creada tendrá un documento de texto donde se guardará el día/mes/año y hora exacta a la que se ficha su entrada y salida.
