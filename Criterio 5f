@@ -1,0 +1,7 @@
+Criterio 5f) Se han descrito los procedimientos de almacenaje de datos en la cloud/nube
+
+Uso de la nube (5pt)	Detalla cómo se almacenan datos en la nube, incluyendo seguridad y disponibilidad, o propone cómo hacerlo (5pt)
+Propondría un servicio en la nube como google drive dejando solamente a personal autorizado acceder a los datos los cuales llegaron a la nube cifrados siendo imposibles de descifrar para personas sin el programa correcto de la empresa
+
+Alternativas consideradas (5pt)	Explica las opciones de almacenamiento evaluadas y razona su elección, o plantea alternativas claras (5pt)
+La alternativa clara sería un NAS en la propia empresa con el cual mediante una red local se le podrían guardar los datos de los trabajadores y borrarlos también teniendo una salida para internet mediante una aplicación con la que desde remoto se podría acceder a la información a la empresa solo siendo personal autorizado
