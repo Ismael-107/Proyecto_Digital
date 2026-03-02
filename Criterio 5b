@@ -1,9 +1,0 @@
-Criterio 5b) Se ha descrito el ciclo de vida del dato
-
-Gestión del dato (5pt)	
-Describe claramente cómo se generan, procesan y eliminan los datos, o propone cómo hacerlo (5pt)
-Los datos se generaron mediante el propio programa al darle al botón brindando la hora y si se ha fichado la entrada o la salida, esto será dependiendo de a qué usuario le has dado su fichaje o salida. los datos de los trabajadores se podrán eliminar dándole al usuario y con una contraseña que solamente tendrán personal autorizado para eliminar los datos
-
-Integridad y trazabilidad (5pt)	
-Explica estrategias para mantener la integridad y trazabilidad de los datos, o propone formas de hacerlo (5pt)
-los ficheros de con la información de los trabajadores estarán encriptados y serán editables solamente por personal autorizado, el propio trabajador no tendrá acceso a los datos, cada fichaje dará hora exacta de su entrada a su fichero
