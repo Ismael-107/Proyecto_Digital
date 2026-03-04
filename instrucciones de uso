@@ -1,3 +1,7 @@
 Instrucciones de uso de la demo
-1º tener instalada una version actualizada de python
-2º Iniciar el archivo proyecto fichaje mediante la terminal o un depurador de codigo compatible con python como visual studio
+1º Tener instalada una version instalada de python superior a la 3.9 https://www.python.org/downloads/
+2º Al tener instalado python entra a tu cmd poniendo la siguiente linea "pip install cryptography" si estas en linux se debera poner "pip3 install cryptography"
+para instalar los paquetes para poder encriptar los archivos y el correcto funcionamiento de la aplicacion
+3º Saca de la carpeta proyecto digital los archivos Fichaje.py y Desencriptador.py hacia una carpeta propia
+4º Abre un depurador de codigo compatible con python o abre desde el cmd del sistema el archivo Fichaje.py para el inicio de la aplicacion
+5º Despues de crear a varios trabajadores abre el archivo py del Desemcriptador.py y al ponerle la contraseña y el archivo del trabajador podremos leer su historial de fichajes del trabajador
